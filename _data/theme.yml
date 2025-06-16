@@ -8,7 +8,8 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: demo_001
+featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theparisreview.org%2Finterviews%2F2955%2Fthe-art-of-fiction-no-83-julio-cortazar&psig=AOvVaw3Bi-TYNXnk7OJLu9aRvW4w&ust=1750173068161000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjR6PGc9o0DFQAAAAAdAAAAABAE
+
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
