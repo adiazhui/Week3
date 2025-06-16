@@ -3,4 +3,4 @@ Title: Collection History
 layout: about
 permalink: /history.html
 ---
-[Text]
+The collection comes from...
